@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sowndhar8.github.io/portfolio",
+  "homepage": "https://sowndhar.dev",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
