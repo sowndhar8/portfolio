@@ -98,7 +98,7 @@ const profile = {
   phone: "+91 9003571816",
   location: "Coimbatore, India",
   github: "https://github.com/sowndhar8",
-  linkedin: "linkedin.com/in/sowndhar-t-m-706980220",
+  linkedin: "sowndhar-t-m-706980220",
 };
 
 const skills = {
@@ -465,7 +465,7 @@ function Hero() {
             <IconGitHub />
           </a>
           <a
-            href={`https://${profile.linkedin}`}
+            href={`https://www.linkedin.com/in/${profile.linkedin}`}
             target="_blank"
             rel="noreferrer"
             className="social-link"
@@ -845,7 +845,7 @@ function Contact() {
               <IconGitHub size={16} /> github.com/sowndhar8
             </a>
             <a
-              href={profile.linkedin}
+              href={`https://www.linkedin.com/in/${profile.linkedin}`}
               target="_blank"
               rel="noreferrer"
               className="contact-link-item"
