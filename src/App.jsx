@@ -845,7 +845,7 @@ function Contact() {
               <IconGitHub size={16} /> github.com/sowndhar8
             </a>
             <a
-              href={profile.linkedin}}
+              href={profile.linkedin}
               target="_blank"
               rel="noreferrer"
               className="contact-link-item"
