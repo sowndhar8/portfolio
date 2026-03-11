@@ -98,7 +98,7 @@ const profile = {
   phone: "+91 9003571816",
   location: "Coimbatore, India",
   github: "https://github.com/sowndhar8",
-  linkedin: "https://linkedin.com/in/sowndhar-t-m-706980220",
+  linkedin: "linkedin.com/in/sowndhar-t-m-706980220",
 };
 
 const skills = {
